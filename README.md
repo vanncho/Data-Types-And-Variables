@@ -1,4 +1,4 @@
-<strong style="font-size: 1.4em;">Homework: Primitive Data Types and Variables</strong></br>
+<strong style="font-size:14px;">Homework: Primitive Data Types and Variables</strong></br>
 <strong>Problem 1. Declare Variables</strong>
 
 Declare five variables choosing for each of them the most appropriate of the types byte, sbyte, short, ushort, int, uint, long, ulong to represent the following values: 52130, -115, 4825932, 97, -10000.
