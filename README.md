@@ -1,11 +1,11 @@
-<strong style="font-size:14px;">Homework: Primitive Data Types and Variables</strong></br>
+<strong>Homework: Primitive Data Types and Variables</strong></br>
 <strong>Problem 1. Declare Variables</strong>
 
 Declare five variables choosing for each of them the most appropriate of the types byte, sbyte, short, ushort, int, uint, long, ulong to represent the following values: 52130, -115, 4825932, 97, -10000.
 Choose a large enough type for each number to ensure it will fit in it. Try to compile the code.
 Submit the source code of your Visual Studio project as part of your homework submission.
 
-Problem 2. Float or Double?
+<strong>Problem 2. Float or Double?</strong>
 
 Which of the following values can be assigned to a variable of type float and which to a variable of type double: 34.567839023, 12.345, 8923.1234857, 3456.091?
 Write a program to assign the numbers in variables and print them to ensure no precision is lost.
