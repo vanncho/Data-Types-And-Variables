@@ -50,6 +50,7 @@ Print the variables to ensure that their value was correctly defined.
 <b>Problem 8. Isosceles Triangle</b>
 
 Write a program that prints an isosceles triangle of 9 copyright symbols ©, something like this:
+
         ©
 
        © ©
