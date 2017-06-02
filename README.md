@@ -117,3 +117,5 @@ Find online more information about ASCII (American Standard Code for Information
 Note: Some characters have a special purpose and will not be displayed as expected. You may skip them or display them differently.
 
 Note: You may need to use for-loops (learn in Internet how).
+
+Last line of file: test git from linux terminal (02/06/2017).
